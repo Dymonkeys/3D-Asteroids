@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=SpaceShip
+comment1.params=
+comment1.target=SpaceShip()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SpaceShip\r\n
+comment10.params=set
+comment10.target=void\ setFreeLook(double)
+comment11.params=set
+comment11.target=void\ setZoom(double)
+comment2.params=red\ green\ blue\ light
+comment2.target=java.awt.Color\ ShadeColor(int,\ int,\ int,\ int)
+comment3.params=g
+comment3.target=void\ fill(java.awt.Graphics)
+comment4.params=set
+comment4.target=void\ setRotation(double)
+comment5.params=set
+comment5.target=void\ setRotationY(double)
+comment6.params=set
+comment6.target=void\ changeRotation(double)
+comment7.params=set
+comment7.target=void\ changeRotationY(double)
+comment8.params=
+comment8.target=double\ getRotation()
+comment9.params=
+comment9.target=double\ getRotationY()
+numComments=12
